@@ -1,3 +1,27 @@
 body{
-    background: #BDBDBD;
-}
+    /*  background: #BDBDBD; */
+    background-color: white;
+  }
+  
+  p{
+      margin-top: 2px;
+  }
+  
+  .partedos{
+      display: flex;
+      margin-top: 30px;
+      margin-bottom: 100px;
+  
+  }
+  
+  .caja{
+      display: block;
+      margin-right: 30px;
+      
+  }
+  
+  
+  .pagina{
+  display: block;
+  height: 800px;
+  }
